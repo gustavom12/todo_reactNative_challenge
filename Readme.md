@@ -9,4 +9,9 @@
 **Install depencencies** `npm i`
 **Start the server** `npm run start`
 
+[Video in web browser device simulator](https://youtu.be/ENGpNwwXYhU)
+
+Sorry for the unprofessionalism with the youtube video, this is my first project with react native, it had some inconveniences when trying to run the application in android studio.
+
 ## Happy testing!
+
